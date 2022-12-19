@@ -22,5 +22,7 @@ namespace WebApplication2
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        //test adsa
     }
 }
