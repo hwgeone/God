@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gMOmW6JL7zFsMNJ9045nU5IzwLVjnTDkkDePn3T3yQIZWWexBbZcfSd2lILGhSjxeBbf2ucacqfwcG4d2KK6bQ==",
+  "dgSpecHash": "3c/mirGiPWUlDjxTbnArJ3JaOWtnjtmKf1LMU0lPXtox7fTFH30+tzNddxQkHpGAAMoY3wcC5pLpIATfza1HnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dan.dai\\source\\repos\\God\\WebApplication2\\WebApplication2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\dan.dai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\allfiles\\Github\\God\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
