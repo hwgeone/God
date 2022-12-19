@@ -18,7 +18,7 @@ namespace WebApplication1
             builder.RootComponents.Add<App>("#app");
             //nxjsnxsj
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
-
+            ///mnmnmnm
             await builder.Build().RunAsync();
         }
         //dadasda
