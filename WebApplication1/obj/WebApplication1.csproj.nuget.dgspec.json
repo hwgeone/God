@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dan.dai\\source\\repos\\God\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\allfiles\\Github\\God\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dan.dai\\source\\repos\\God\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\allfiles\\Github\\God\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan.dai\\source\\repos\\God\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\allfiles\\Github\\God\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\dan.dai\\source\\repos\\God\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\dan.dai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan.dai\\source\\repos\\God\\WebApplication1\\obj\\",
+        "projectPath": "C:\\allfiles\\Github\\God\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\wei.huang\\.nuget\\packages\\",
+        "outputPath": "C:\\allfiles\\Github\\God\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dan.dai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wei.huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +71,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.17, 5.0.17]"
+              "version": "[5.0.9, 5.0.9]"
             }
           ],
           "frameworkReferences": {
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
